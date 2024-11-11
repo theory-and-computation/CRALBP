@@ -1,0 +1,49 @@
+234lpub_block5_pmf.dat
+234lpub_block5_rho.dat
+234lpub_block5_bia.dat
+234lpub_block5_fff.dat
+-11.49 10.16  0.2  0.0
+21 100000 100
+0.001
+./timeseries/cv--10-ts
+-10   4.0
+./timeseries/cv--9-ts
+-9   4.0
+./timeseries/cv--8-ts
+-8   4.0
+./timeseries/cv--7-ts
+-7   4.0
+./timeseries/cv--6-ts
+-6   4.0
+./timeseries/cv--5-ts
+-5   4.0
+./timeseries/cv--4-ts
+-4   4.0
+./timeseries/cv--3-ts
+-3   4.0
+./timeseries/cv--2-ts
+-2   4.0
+./timeseries/cv--1-ts
+-1   4.0
+./timeseries/cv-0-ts
+0   4.0
+./timeseries/cv-1-ts
+1   4.0
+./timeseries/cv-2-ts
+2   4.0
+./timeseries/cv-3-ts
+3   4.0
+./timeseries/cv-4-ts
+4   4.0
+./timeseries/cv-5-ts
+5   4.0
+./timeseries/cv-6-ts
+6   4.0
+./timeseries/cv-7-ts
+7   4.0
+./timeseries/cv-8-ts
+8   4.0
+./timeseries/cv-9-ts
+9   4.0
+./timeseries/cv-10-ts
+10   4.0

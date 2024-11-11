@@ -1,0 +1,3 @@
+#!/bin/sh
+alias vmd=/Applications/VMD_1.9.4a57-arm64-Rev12.app/Contents/Resources/VMD.app/Contents/MacOS/VMD
+vmd -dispdev text -e /Users/danielsantos/Downloads/CRALBP_analysis/scripts/rotateProteinToPreferred.tcl -args /Users/danielsantos/Downloads/CRALBP_analysis/all_stripped/first_prot.oriented.pdb 343.77467707849394 343.77467707849394 114.59155902616465 /Users/danielsantos/Downloads/CRALBP_analysis/misc/NM_mode10.pdb

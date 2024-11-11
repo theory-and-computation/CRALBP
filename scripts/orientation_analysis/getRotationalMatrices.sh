@@ -1,0 +1,3 @@
+#!/bin/sh
+alias vmd=/Applications/VMD_1.9.4a57-arm64-Rev12.app/Contents/Resources/VMD.app/Contents/MacOS/VMD
+vmd -dispdev text -e /Users/danielsantos/Downloads/CRALBP_analysis/scripts/getRotationalMatrices.tcl -args /Users/danielsantos/Downloads/CRALBP_analysis/all_stripped/rotMat.txt /Users/danielsantos/Downloads/CRALBP_analysis/all_stripped/stripped.psf /Users/danielsantos/Downloads/CRALBP_analysis/all_stripped/rotatedTNeutralMembrane_act-ions-wats-00015-stripped.dcd /Users/danielsantos/Downloads/CRALBP_analysis/all_stripped/first_prot.oriented.pdb
